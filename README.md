@@ -14,7 +14,7 @@ A Flask-based web application for visualizing and organizing iptables rules. Thi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/iptables-visualizer.git
+   git clone https://github.com/dipakchaulagain/iptable-visualizer.git
    cd iptables-visualizer
    ```
 
